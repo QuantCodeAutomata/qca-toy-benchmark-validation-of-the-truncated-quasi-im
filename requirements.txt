@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.14
+matplotlib
+seaborn
+py_vollib
+pytest
